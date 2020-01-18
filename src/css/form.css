@@ -1,0 +1,30 @@
+.form-container {
+  background: #fff;
+  padding: 30px;
+  margin: 5vh 10vh;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 0px #000;
+}
+
+.form-container button {
+  margin-right: 5px;
+}
+
+.pod {
+  border: 1px solid red;
+  border-radius: 15px;
+  padding: 20px;
+  margin: 15px;
+}
+
+.pod p {
+  margin-bottom: 0;
+}
+
+.pod p:last-child {
+  padding-top: 10px;
+}
+
+.pod button {
+  margin-right: 5px;
+}
